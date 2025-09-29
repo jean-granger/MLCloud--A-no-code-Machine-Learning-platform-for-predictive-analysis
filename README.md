@@ -7,7 +7,7 @@ It enables users with varying technical backgrounds to upload datasets, select a
 
 ## Documentation & Poster
 - [Project Documentation (PDF)](Docs/docs.pdf)  
-- [Project Poster](docs/MLCloud_Poster.pdf)
+- [Project Poster](Docs/MLCloud_Poster.pdf)
 
 ## Tech Stack
 - **Frontend:** React, Vite, Tailwind, Chart.js, deployed on Vercel  
@@ -27,7 +27,7 @@ It enables users with varying technical backgrounds to upload datasets, select a
 - Deployed full-stack app on Render (backend) and Vercel (frontend). - Created documentation and poster to communicate project impact.
 
 ## Contact
-[LinkedIn](www.linkedin.com/in/ange-granger-jean-365b94320) — jeannange001@gmail.com - aeagsjean@st.knust.edu.gh 
+[LinkedIn](https://linkedin.com/in/ange-granger-jean-365b94320) — jeannange001@gmail.com - aeagsjean@st.knust.edu.gh 
 Don't hesitate to hit me up for anything about the project😊.
 
 Jean Granger
