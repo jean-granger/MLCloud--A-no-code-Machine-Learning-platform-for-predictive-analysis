@@ -1,4 +1,4 @@
-# MLCloud/A-no-code-Machine-Learning-platform-for-predictive-analytics
+# MLCloud/A no-code Machine Learning platform for predictive analytics
 MLCloud is an **innovative no-code AutoML platform** designed to democratize access to machine learning.  
 It enables users with varying technical backgrounds to upload datasets, select a target column, and train predictive models  through an **intuitive, web-based interface**.
 
