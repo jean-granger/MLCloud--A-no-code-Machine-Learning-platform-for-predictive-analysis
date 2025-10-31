@@ -3,7 +3,7 @@ MLCloud is an **innovative no-code AutoML platform** designed to democratize acc
 It enables users with varying technical backgrounds to upload datasets, select a target column, and train predictive models  through an **intuitive, web-based interface**.
 
 ## Live Demo
-[Try MLCloud here](https://mlcloud.vercel.app)
+[Try MLCloud here](https://mlclou.vercel.app)
 
 ## Documentation & Poster
 - [Project Documentation (PDF)](Docs/docs.pdf)  
